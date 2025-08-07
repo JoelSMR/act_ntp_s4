@@ -8,7 +8,8 @@ def sumatuplas(tupla1, tupla2):
         resultado.append(tupla1[i] + tupla2[i])
     return tuple(resultado)
 
-t1 = (1, 2, 3)
-t2 = (4, 5, 6)
-suma = sumatuplas(t1, t2)
+tupla1 = (1, 2, 3)
+tupla2 = (4, 5, 6)
+
+suma = sumatuplas(tupla1, tupla2)
 print("Suma de tuplas:", suma)
