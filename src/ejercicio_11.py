@@ -1,7 +1,3 @@
-# Ejercicio 11: Crea una función que reciba dos listas y use ciclos for para convertirlas en conjuntos. Luego 
-# calcula y muestra la unión, intersección, diferencia y diferencia simétrica entre ambos conjuntos.
-
-
 def conjuntosbasicos(lista1, lista2):
 
     conjunto1 = set()

@@ -1,8 +1,3 @@
-# Ejercicio 12: Implementa una función que solicite al usuario ingresar palabras usando un ciclo while hasta 
-# que escriba 'salir'. Almacena las palabras en un conjunto y muestra cuántas palabras únicas se 
-# ingresaron y cuáles se repitieron.
-
-
 def palabras_unicas():
     palabras = set()
     repetidas = set()
